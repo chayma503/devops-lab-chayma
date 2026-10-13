@@ -10,3 +10,4 @@
 - The database is connected to the backend network only.
 ## Change history
 This file is managed with Git. Run: git log network/network.md| legacy | 192.168.0.0/16 | 192.168.0.1 | 65534 | old network |
+| legacy | 192.168.0.0/16 | 192.168.0.1 | 65534 | old network |
